@@ -7,6 +7,3 @@
     I = the numerical integral calculated
 
 # [I] = Simpson(x, y)
-
-# WARNING :
-Algorithm only works with a 3x3 matrix, and the pivoting function does not work. 
