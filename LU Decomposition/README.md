@@ -8,3 +8,8 @@
   	P = the permutation matrix
   
 # [L, U, P] = luFactor(A)
+
+
+# WARNING :
+Algorithm only works with a 3x3 matrix, and the pivoting function does not work. 
+
